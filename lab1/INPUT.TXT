@@ -1,0 +1,7 @@
+var a, b, c: real;
+rea: integer;
+x: array [1..2, 2..5] of array [boolean] of integer;
+rit: string;
+gf: string[21];
+g: real;
+
